@@ -1,4 +1,4 @@
-*Tema:* Plataforma de Aluguel de Equipamentos - locadora de filmes, séries e games BLACK-BOX
+*Tema:* Plataforma de Aluguel - locadora de filmes, séries e games BLACK-BOX
 
 O projeto visa organizar o acervo de filmes, séries e games para uma locadora, e gerenciar a logística de locação dos produtos para os clientes da locadora.
 
